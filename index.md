@@ -6,3 +6,5 @@
 ###### 6
 
 I tried headers of the markdown this time.
+
+![Image of Strange Cat](https://octodex.github.com/images/yaktocat.png)
