@@ -8,3 +8,8 @@
 I tried headers of the markdown this time.
 
 ![Image of Strange Cat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+for i in range(5):
+  print(i)
+```
